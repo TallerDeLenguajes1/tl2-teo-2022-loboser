@@ -7,7 +7,6 @@ public enum TipoDeExtraccion{
 }
 
 public class Cuenta {
-    
     private int pesos = 0;
     private int dolares = 0;
 
